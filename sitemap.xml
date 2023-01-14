@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://egg.tank/</loc>
+         <lastmod>2023-01-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://egg.tank/about/</loc>
+         <lastmod>2023-01-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://egg.tank/backstory/</loc>
+         <lastmod>2023-01-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://egg.tank/gasrlite/</loc>
+         <lastmod>2023-01-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
